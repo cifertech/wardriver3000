@@ -31,7 +31,7 @@
 
 ## 📖 Explore the Full Documentation
 
-Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/esp32-div-your-swiss-army-knife-for-wireless-networks/). Click the link and explore further!
+Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/wardriver3000-build-your-own-wardriving-machine/). Click the link and explore further!
 
 ## ⚠ Future Changes
 - The provided PCB design has its flaws, hopefully, in the future, I will design a better model, but for now, it works.
