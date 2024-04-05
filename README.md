@@ -33,8 +33,10 @@
 
 Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/esp32-div-your-swiss-army-knife-for-wireless-networks/). Click the link and explore further!
 
-
 ## ⚠ Future Changes
+- The provided PCB design has its flaws, hopefully, in the future, I will design a better model, but for now, it works.
+<be>
+
 - Fixing existing bugs
 - Adding more character personality
 - Adding BLE 
